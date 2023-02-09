@@ -19,10 +19,10 @@ import java.util.Scanner;
 
 
  */
-public class piramid7HalfInvertedPiramidWithNumbers {
+public class Pattern7HalfInvertedPiramidWithNumbers {
     public static void main(String[] args) {
         Scanner scan=new Scanner(System.in);
-        System.out.println("Enter the half piramid type \'row\'(default) or \'column\'");
+        System.out.println("Enter the half piramid type row(default) or column");
         String s=scan.nextLine();
         if(s.equals("column") || s.equals("COLUMN") || s.equals("Column")){
             for(int i=5;i>=1;i--){
