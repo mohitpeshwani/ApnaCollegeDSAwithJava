@@ -7,7 +7,7 @@ package video5patterns9;
       4 3 2 1 2 3 4
     5 4 3 2 1 2 3 4 5
   */
-public class PatterHm3PalindronicPyramid {
+public class PatternHm3PalindronicPyramid {
     public static void main(String[] args) {
         int n=5;
         //Outer Loop for no of rows time
