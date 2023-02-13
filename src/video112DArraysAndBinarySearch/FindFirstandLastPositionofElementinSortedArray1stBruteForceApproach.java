@@ -1,4 +1,4 @@
-package video112DArraysAndBinarySearch;
+package video11multi_DArraysAndBinarySearch;
 
 import java.util.Arrays;
 

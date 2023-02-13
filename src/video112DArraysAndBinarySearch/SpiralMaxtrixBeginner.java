@@ -1,5 +1,4 @@
 package video112DArraysAndBinarySearch;
-
 public class SpiralMaxtrixBeginner {
     public static void main(String[] args) {
         int arra[][] ={{1,2,3},
